@@ -1,7 +1,33 @@
 [![Social banner for Haku](https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/portfolio-video-ezgif.com-optimize%20(1).gif)](https://hakux.com)
 
-## Yush Yush 👋 I'm Poriya hamzehzadeh Call me Haku (even if i ask you) 
-Founder of (https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/portfolio-video-ezgif.com-optimize%20(1).gif)](https://hakux.com) and (https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/portfolio-video-ezgif.com-optimize%20(1).gif)](https://hakux.com)
+# 👋 Yush Yush! I'm **Poriya Hamzehzadeh** — but call me **Haku**  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F0FF&width=700&lines=Full-Stack+Developer+%E2%80%A2+Product+Builder+%E2%80%A2+Founder+of+Uniqord+%26+Lorcent)
+
+
+[![Uniqord](https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/Uniqord.png)](https://uniqord.com)
+[![Lorcent](https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/Lorcent.png)](https://lorcent.com)
+
+---
+
+## 🚀 About Me  
+I'm **Haku**, a full-stack developer who loves bringing ideas to life — fast, clean, and beautiful.  
+From backend architecture to UI animations, I enjoy building polished full products from scratch.
+
+💠 **Founder of:**
+- 🟪 **Uniqord.com** — AI-powered digital identity & branding tools  
+- 🟦 **Lorcent.com** — Web solutions, SaaS, and optimized software builds  
+
+💠 **More about me:**
+- 🌐 My main website: **https://hakux.com**  
+- 🎨 My UI/UX portfolio: **https://me.hakux.com**  
+- 💼 My LinkedIn: **https://www.linkedin.com/in/hakux/**  
+- ✉️ Email: **hakooochiha@gmail.com**  
+- 🧠 I move fast, build fast, and learn fast  
+- 😎 Motto: *If I can imagine it, I can build it.*
+
+---
+
+## 🛠️ Technologies & Tools
 
 <h3>Things I code with</h3>
 <p>
@@ -31,3 +57,7 @@ Founder of (https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/po
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+ ---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&height=200&lines=Initializing+Haku...;Loading+Full-Stack+Developer+Modules...;Booting+Product+Builder+Engine...;Activating+Uniqord+and+Lorcent+Systems...;Deploying+Code+at+Light+Speed...;Welcome+to+Haku's+World." />
