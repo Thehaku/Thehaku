@@ -1,63 +1,145 @@
-[![Social banner for Haku](https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/portfolio-video-ezgif.com-optimize%20(1).gif)](https://hakux.com)
+﻿<div align="center">
 
-# 👋 Yush Yush! I'm **Poriya Hamzehzadeh** — but call me **Haku**  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F0FF&width=700&lines=Full-Stack+Developer+%E2%80%A2+Product+Builder+%E2%80%A2+Founder+of+Uniqord+%26+Lorcent)
+# Pouria Hamzehzadeh
+### Lead Software Engineer & Distributed Systems Architect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hakux.ir-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hakux.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fhakux-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakux/)
+[![Email](https://img.shields.io/badge/Email-poriyahamzehzadeh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poriyahamzehzadeh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Thehaku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thehaku)
 
-[![Uniqord](https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/Uniqord.png)](https://uniqord.com)
-[![Lorcent](https://raw.githubusercontent.com/Thehaku/Thehaku/refs/heads/main/Lorcent.png)](https://lorcent.com)
-
----
-
-## 🚀 About Me  
-I'm **Haku**, a full-stack developer who loves bringing ideas to life — fast, clean, and beautiful.  
-From backend architecture to UI animations, I enjoy building polished full products from scratch.
-
-💠 **Founder of:**
-- 🟪 **Uniqord.com** — AI-powered digital identity & branding tools  
-- 🟦 **Lorcent.com** — Web solutions, SaaS, and optimized software builds  
-
-💠 **More about me:**
-- 🌐 My main website: **https://hakux.com**  
-- 🎨 My UI/UX portfolio: **https://me.hakux.com**  
-- 💼 My LinkedIn: **https://www.linkedin.com/in/hakux/**  
-- ✉️ Email: **hakooochiha@gmail.com**  
-- 🧠 I move fast, build fast, and learn fast  
-- 😎 Motto: *If I can imagine it, I can build it.*
-
----
-
-## 🛠️ Technologies & Tools
-
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p align="center">
+  <em>Specializing in scalable backend architectures, real-time collaboration engines, high-performance web systems, and cloud infrastructure.</em>
 </p>
 
- ---
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&height=200&lines=Initializing+Haku...;Loading+Full-Stack+Developer+Modules...;Booting+Product+Builder+Engine...;Activating+Uniqord+and+Lorcent+Systems...;Deploying+Code+at+Light+Speed...;Welcome+to+Haku's+World." />
+---
+
+## 🏛️ Executive Summary
+
+Lead Software Engineer with deep expertise in designing and scaling production-grade web systems, resilient microservices, and high-performance developer tooling. Experienced across the full engineering spectrum—from low-level systems programming and distributed state synchronization to polished, interactive user interfaces and cloud orchestration.
+
+* **Engineering Leadership & Founding**: Founder & Lead Software Engineer at **Uniqord Studio** and **Lorcent**.
+* **Enterprise & Scale Experience**: Engineered core data workflows, design systems, and real-time synchronization engines across **AWS**, **Shopify**, and **Liveblocks**.
+* **Academic Background & Credentials**: Computer Software Engineering (Harvard University) · Cisco Certified Network Professional (CCNP / Specialist).
+
+---
+
+## ⚡ Featured Open-Source Systems & Frameworks
+
+Architecture-first open-source engines and frameworks built for scale, compile-time safety, and microsecond-level performance:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/ZenithAPI">ZenithAPI</a> <code>Rust</code></h3>
+      <p>Enterprise-grade modular API-first web ecosystem for Rust. Seamlessly integrates compile-time OpenAPI 3.0 auto-specification, high-throughput gRPC services, Serverless runtimes (Lambda/Workers), and official AI Model Context Protocol (MCP) server support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-2024-orange?style=flat-square&logo=rust" />
+        <img src="https://img.shields.io/badge/OpenAPI-3.0-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-MCP%20%7C%20gRPC-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/PrismRS">PrismRS</a> <code>Rust / Wasm</code></h3>
+      <p>Next-generation full-stack & universal web framework for WebAssembly and Rust. Supports multi-strategy rendering (SSG, SSR, ISR, SWR) with state-preserving Hot State Reloading (HSR) and native server adapters (Axum/Actix).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Wasm-Native-purple?style=flat-square&logo=webassembly" />
+        <img src="https://img.shields.io/badge/Universal-SSG%20%7C%20SSR%20%7C%20ISR-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engine-Sycamore-red?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/SpectraReport">SpectraReport</a> <code>C# / .NET</code></h3>
+      <p>High-performance enterprise reporting and document generation engine for .NET 6/7/8. Band-oriented data aggregation, cross-database connectors (15+ SQL/NoSQL engines), pivot matrix tables, and multi-format exporting (PDF/HTML).</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-6%20%7C%207%20%7C%208-purple?style=flat-square&logo=dotnet" />
+        <img src="https://img.shields.io/badge/Engine-Band--Oriented-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Export-PDF%20%7C%20HTML-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/IronGate">IronGate</a> <code>Rust</code></h3>
+      <p>Asynchronous, type-safe web framework engineered for zero-cost abstractions, compile-time request validation, and microsecond-level p99 latency powered by Tokio and Hyper.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Runtime-Tokio%20%2B%20Hyper-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Safety-Type--Safe-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Latency-Microsecond-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Competencies & Architecture Matrix
+
+<table align="center">
+  <tr>
+    <td align="left"><strong>Languages & Core</strong></td>
+    <td align="left"><code>Rust</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C# (.NET)</code> · <code>SQL</code> · <code>HTML5 / Modern CSS</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Backend & Systems</strong></td>
+    <td align="left"><code>Tokio / Hyper</code> · <code>Node.js</code> · <code>NestJS</code> · <code>gRPC / Protobuf</code> · <code>GraphQL (Apollo)</code> · <code>REST API Design</code> · <code>OpenAPI 3.0</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Distributed & Real-Time</strong></td>
+    <td align="left"><code>Real-Time Collaboration (CRDTs / WebSockets)</code> · <code>Redis Caching</code> · <code>Event-Driven Architecture</code> · <code>Message Queues</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Frontend & Wasm</strong></td>
+    <td align="left"><code>React</code> · <code>Next.js</code> · <code>WebAssembly (Wasm)</code> · <code>Sycamore</code> · <code>State Management (Redux/Zustand)</code> · <code>Design Systems</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Data & Persistence</strong></td>
+    <td align="left"><code>PostgreSQL</code> · <code>MongoDB</code> · <code>SQLite</code> · <code>Redis</code> · <code>Prisma / TypeORM / Diesel</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Cloud & Infrastructure</strong></td>
+    <td align="left"><code>AWS (Amazon Web Services)</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>CI/CD (GitHub Actions)</code> · <code>Linux Administration</code> · <code>Reverse Proxies</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>System Architecture</strong></td>
+    <td align="left"><code>Microservices</code> · <code>Domain-Driven Design (DDD)</code> · <code>Fault Tolerance & Resiliency</code> · <code>Scalable API Gateways</code></td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Experience Summary
+
+* **AWS (Amazon Web Services)** — *Full-Stack Developer (Remote)*
+  * Architected analytics and data exploration interfaces for complex reporting workflows with high reliability.
+  * Developed backend services and data pipelines supporting data-intensive product features across cloud infrastructure.
+* **Shopify** — *UX Designer & Product Engineer (Remote)*
+  * Designed and implemented commerce workflows, balancing interaction fidelity with strict engineering constraints.
+  * Shipped reusable interface patterns, frontend components, and production-ready design systems across global products.
+* **Uniqord Studio** — *Founder & Lead Software Engineer (Remote)*
+  * Led overall architecture and technical execution across web products, covering API design, distributed databases, cloud orchestration, and continuous delivery.
+* **Liveblocks** — *Senior Frontend Engineer (Remote)*
+  * Built sub-millisecond real-time collaboration engines including user presence, live cursors, shared state, and multi-user editing pipelines.
+* **Lorcent** — *Founder & Product Engineer (Remote)*
+  * Directed product development from technical blueprint and UX architecture to production deployment and scaling.
+
+---
+
+## 🎓 Education & Certifications
+
+* **Harvard University** — *Bachelor of Science in Computer Software Engineering (Grade: A-)*
+* **Cisco Certified Network Professional (CCNP / Specialist)** — *Advanced Network Infrastructure, Distributed Routing, Security & Systems Engineering*
+
+---
+
+<div align="center">
+
+```
+"Engineering resilient, high-throughput software systems where architectural precision meets elegant user experiences."
+```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thehaku&theme=tokyonight&hide_border=true)](https://github.com/Thehaku)
+
+</div>
