@@ -1,13 +1,22 @@
-﻿# Pouria Hamzehzadeh
+﻿<div align="center">
 
-**Lead Software Engineer & Systems Architect**  
-Specializing in distributed systems, real-time collaboration engines, and developer infrastructure.
+# Pouria Hamzehzadeh
+### Lead Software Engineer & Distributed Systems Architect
 
-[Website](https://hakux.ir) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/hakux/) &nbsp;|&nbsp; [Email](mailto:poriyahamzehzadeh@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/Thehaku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hakux.ir-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hakux.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fhakux-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakux/)
+[![Email](https://img.shields.io/badge/Email-poriyahamzehzadeh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poriyahamzehzadeh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Thehaku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thehaku)
+
+<p align="center">
+  <em>Specializing in scalable backend architectures, real-time collaboration engines, high-performance web systems, and cloud infrastructure.</em>
+</p>
+
+</div>
 
 ---
 
-## About
+## Executive Summary
 
 I am a software engineer focused on building resilient backend services, real-time state synchronization engines, and high-performance developer tooling. Over the past several years, I have worked across the entire engineering lifecycle—from designing distributed database workflows and network-level protocols to crafting high-fidelity user interfaces and production design systems.
 
@@ -22,34 +31,89 @@ My work centers on three core engineering principles:
 
 ## Featured Open-Source Systems
 
-I actively design and maintain infrastructure tailored for performance-critical environments:
+Architecture-first open-source engines and frameworks built for scale, compile-time safety, and microsecond-level performance:
 
-### [ZenithAPI](https://github.com/Thehaku/ZenithAPI)
-*Modular, API-first web suite for Rust with OpenAPI 3.0, gRPC, and Model Context Protocol (MCP)*
-- Built to streamline modern microservices and AI agent tool integration in Rust.
-- Features compile-time OpenAPI 3.0 schema and Swagger/Redoc auto-generation with zero runtime overhead.
-- Native adapters for gRPC services, Serverless runtimes (AWS Lambda, Cloudflare Workers), and official Model Context Protocol (MCP) server support.
-
-### [PrismRS](https://github.com/Thehaku/PrismRS)
-*Full-stack, universal web framework for Rust & WebAssembly*
-- Multi-strategy rendering engine supporting Static Site Generation (SSG), Server-Side Rendering (SSR), and Incremental Static Regeneration (ISR).
-- Integrates fine-grained client-side reactivity (powered by Sycamore) with first-class server adapters for Axum and Actix-Web.
-- Features Hot State Reloading (HSR), preserving application runtime state across live development cycles.
-
-### [SpectraReport](https://github.com/Thehaku/SpectraReport)
-*Enterprise reporting and document generation engine for .NET 6/7/8*
-- Band-oriented report engine supporting 13 layout band types, complex sub-reports, and dynamic pivot matrices.
-- Direct connectivity to 15+ relational and document databases (PostgreSQL, SQL Server, MySQL, MongoDB, ClickHouse, SQLite).
-- High-throughput multi-format document exporting to PDF, HTML5, and raster formats.
-
-### [IronGate](https://github.com/Thehaku/IronGate)
-*Asynchronous, type-safe web framework in Rust*
-- Low-latency HTTP framework built on Tokio and Hyper, enforcing request validation and routing guarantees at compile time.
-- Composable pipeline architecture for middleware chains (JWT authentication, database pooling, and template rendering).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/ZenithAPI">ZenithAPI</a> <code>Rust</code></h3>
+      <p>Modular, API-first web suite for Rust. Unifies compile-time OpenAPI 3.0 auto-specification, high-throughput gRPC services, Serverless runtimes (AWS Lambda, Cloudflare Workers), and official Model Context Protocol (MCP) server support for AI tool integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-2024-orange?style=flat-square&logo=rust" />
+        <img src="https://img.shields.io/badge/OpenAPI-3.0-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-MCP%20%7C%20gRPC-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/PrismRS">PrismRS</a> <code>Rust / Wasm</code></h3>
+      <p>Universal full-stack web framework for WebAssembly and Rust. Features multi-strategy rendering (SSG, SSR, ISR, SWR) with fine-grained reactivity (Sycamore), native Axum/Actix server adapters, and state-preserving Hot State Reloading (HSR).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Wasm-Native-purple?style=flat-square&logo=webassembly" />
+        <img src="https://img.shields.io/badge/Universal-SSG%20%7C%20SSR%20%7C%20ISR-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engine-Sycamore-red?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/SpectraReport">SpectraReport</a> <code>C# / .NET</code></h3>
+      <p>High-performance enterprise reporting and document generation engine for .NET 6/7/8. Band-oriented data aggregation, cross-database connectors (15+ SQL/NoSQL engines), pivot matrix tables, and multi-format document exporting (PDF/HTML).</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-6%20%7C%207%20%7C%208-purple?style=flat-square&logo=dotnet" />
+        <img src="https://img.shields.io/badge/Engine-Band--Oriented-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Export-PDF%20%7C%20HTML-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Thehaku/IronGate">IronGate</a> <code>Rust</code></h3>
+      <p>Asynchronous, type-safe web framework engineered for zero-cost abstractions, compile-time request validation, and microsecond-level p99 latency powered by Tokio and Hyper with a modular pipeline architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Runtime-Tokio%20%2B%20Hyper-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Safety-Type--Safe-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Latency-Microsecond-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Experience
+## Technical Competencies
+
+<table align="center">
+  <tr>
+    <td align="left"><strong>Languages & Core</strong></td>
+    <td align="left"><code>Rust</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C# (.NET)</code> · <code>SQL</code> · <code>HTML5 / Modern CSS</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Backend & Systems</strong></td>
+    <td align="left"><code>Tokio / Hyper</code> · <code>Node.js</code> · <code>NestJS</code> · <code>gRPC / Protobuf</code> · <code>GraphQL (Apollo)</code> · <code>REST API Design</code> · <code>OpenAPI 3.0</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Distributed & Real-Time</strong></td>
+    <td align="left"><code>Real-Time Collaboration (CRDTs / WebSockets)</code> · <code>Redis Caching</code> · <code>Event-Driven Architecture</code> · <code>Message Queues</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Frontend & WebAssembly</strong></td>
+    <td align="left"><code>React</code> · <code>Next.js</code> · <code>WebAssembly (Wasm)</code> · <code>Sycamore</code> · <code>State Management (Redux/Zustand)</code> · <code>Design Systems</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Data & Persistence</strong></td>
+    <td align="left"><code>PostgreSQL</code> · <code>MongoDB</code> · <code>SQLite</code> · <code>Redis</code> · <code>Prisma / TypeORM / Diesel</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>Cloud & Infrastructure</strong></td>
+    <td align="left"><code>AWS (Amazon Web Services)</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>CI/CD (GitHub Actions)</code> · <code>Linux Administration</code> · <code>Reverse Proxies</code></td>
+  </tr>
+  <tr>
+    <td align="left"><strong>System Architecture</strong></td>
+    <td align="left"><code>Microservices</code> · <code>Domain-Driven Design (DDD)</code> · <code>Fault Tolerance & Resiliency</code> · <code>Scalable API Gateways</code></td>
+  </tr>
+</table>
+
+---
+
+## Professional Experience
 
 ### Founder & Lead Software Engineer — Uniqord Studio (2022 - Present)
 - Direct end-to-end technical strategy, microservices architecture, and cloud infrastructure across multiple SaaS products.
@@ -74,21 +138,9 @@ I actively design and maintain infrastructure tailored for performance-critical 
 
 ---
 
-## Technical Competencies
-
-- **Languages:** Rust, TypeScript, JavaScript, C# (.NET), SQL, HTML5, Modern CSS
-- **Backend & Systems:** Tokio, Hyper, Node.js, NestJS, ASP.NET Core, gRPC, Protobuf, GraphQL, REST
-- **Distributed & Real-Time:** WebSockets, CRDTs, Redis Caching, Event-Driven Architectures, Message Brokers
-- **Frontend & WebAssembly:** React, Next.js, WebAssembly (Wasm), Sycamore, State Management (Redux/Zustand), Design Systems
-- **Databases & Persistence:** PostgreSQL, MongoDB, SQLite, Redis, Diesel, Prisma, Entity Framework Core
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD (GitHub Actions), Linux Administration, Nginx
-- **Architecture:** Microservices, Domain-Driven Design (DDD), Distributed Systems, High-Availability API Gateways
-
----
-
 ## Education & Certifications
 
-- **Harvard University** — Computer Software Engineering (Grade: A-)
+- **Harvard University** — Bachelor of Science in Computer Software Engineering (Grade: A-)
 - **Cisco Certified Network Professional (CCNP / Specialist)** — Advanced Network Infrastructure, Systems Security & Distributed Routing
 
 ---
