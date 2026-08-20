@@ -1,145 +1,101 @@
-﻿<div align="center">
+﻿# Pouria Hamzehzadeh
 
-# Pouria Hamzehzadeh
-### Lead Software Engineer & Distributed Systems Architect
+**Lead Software Engineer & Systems Architect**  
+Specializing in distributed systems, real-time collaboration engines, and developer infrastructure.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hakux.ir-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hakux.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fhakux-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakux/)
-[![Email](https://img.shields.io/badge/Email-poriyahamzehzadeh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poriyahamzehzadeh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Thehaku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thehaku)
-
-<p align="center">
-  <em>Specializing in scalable backend architectures, real-time collaboration engines, high-performance web systems, and cloud infrastructure.</em>
-</p>
-
-</div>
+[Website](https://hakux.ir) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/hakux/) &nbsp;|&nbsp; [Email](mailto:poriyahamzehzadeh@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/Thehaku)
 
 ---
 
-## 🏛️ Executive Summary
+## About
 
-Lead Software Engineer with deep expertise in designing and scaling production-grade web systems, resilient microservices, and high-performance developer tooling. Experienced across the full engineering spectrum—from low-level systems programming and distributed state synchronization to polished, interactive user interfaces and cloud orchestration.
+I am a software engineer focused on building resilient backend services, real-time state synchronization engines, and high-performance developer tooling. Over the past several years, I have worked across the entire engineering lifecycle—from designing distributed database workflows and network-level protocols to crafting high-fidelity user interfaces and production design systems.
 
-* **Engineering Leadership & Founding**: Founder & Lead Software Engineer at **Uniqord Studio** and **Lorcent**.
-* **Enterprise & Scale Experience**: Engineered core data workflows, design systems, and real-time synchronization engines across **AWS**, **Shopify**, and **Liveblocks**.
-* **Academic Background & Credentials**: Computer Software Engineering (Harvard University) · Cisco Certified Network Professional (CCNP / Specialist).
+Currently, I lead architecture and product engineering at **Uniqord Studio**, while maintaining several open-source systems across the Rust and .NET ecosystems. Previously, I contributed to engineering and product workflows at **AWS**, **Shopify**, and **Liveblocks**.
 
----
-
-## ⚡ Featured Open-Source Systems & Frameworks
-
-Architecture-first open-source engines and frameworks built for scale, compile-time safety, and microsecond-level performance:
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Thehaku/ZenithAPI">ZenithAPI</a> <code>Rust</code></h3>
-      <p>Enterprise-grade modular API-first web ecosystem for Rust. Seamlessly integrates compile-time OpenAPI 3.0 auto-specification, high-throughput gRPC services, Serverless runtimes (Lambda/Workers), and official AI Model Context Protocol (MCP) server support.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Rust-2024-orange?style=flat-square&logo=rust" />
-        <img src="https://img.shields.io/badge/OpenAPI-3.0-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Protocol-MCP%20%7C%20gRPC-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Thehaku/PrismRS">PrismRS</a> <code>Rust / Wasm</code></h3>
-      <p>Next-generation full-stack & universal web framework for WebAssembly and Rust. Supports multi-strategy rendering (SSG, SSR, ISR, SWR) with state-preserving Hot State Reloading (HSR) and native server adapters (Axum/Actix).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Wasm-Native-purple?style=flat-square&logo=webassembly" />
-        <img src="https://img.shields.io/badge/Universal-SSG%20%7C%20SSR%20%7C%20ISR-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Engine-Sycamore-red?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Thehaku/SpectraReport">SpectraReport</a> <code>C# / .NET</code></h3>
-      <p>High-performance enterprise reporting and document generation engine for .NET 6/7/8. Band-oriented data aggregation, cross-database connectors (15+ SQL/NoSQL engines), pivot matrix tables, and multi-format exporting (PDF/HTML).</p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET-6%20%7C%207%20%7C%208-purple?style=flat-square&logo=dotnet" />
-        <img src="https://img.shields.io/badge/Engine-Band--Oriented-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Export-PDF%20%7C%20HTML-green?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Thehaku/IronGate">IronGate</a> <code>Rust</code></h3>
-      <p>Asynchronous, type-safe web framework engineered for zero-cost abstractions, compile-time request validation, and microsecond-level p99 latency powered by Tokio and Hyper.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Runtime-Tokio%20%2B%20Hyper-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Safety-Type--Safe-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Latency-Microsecond-blue?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+My work centers on three core engineering principles:
+- **Deterministic correctness:** Prioritizing compile-time safety, strict type invariants, and predictable state transitions over runtime assumptions.
+- **Predictable latency:** Engineering systems that remain fast and resource-efficient under high concurrent load.
+- **Thoughtful developer ergonomics:** Designing APIs and libraries that make sound architecture the path of least resistance.
 
 ---
 
-## 🛠️ Technical Competencies & Architecture Matrix
+## Featured Open-Source Systems
 
-<table align="center">
-  <tr>
-    <td align="left"><strong>Languages & Core</strong></td>
-    <td align="left"><code>Rust</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C# (.NET)</code> · <code>SQL</code> · <code>HTML5 / Modern CSS</code></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>Backend & Systems</strong></td>
-    <td align="left"><code>Tokio / Hyper</code> · <code>Node.js</code> · <code>NestJS</code> · <code>gRPC / Protobuf</code> · <code>GraphQL (Apollo)</code> · <code>REST API Design</code> · <code>OpenAPI 3.0</code></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>Distributed & Real-Time</strong></td>
-    <td align="left"><code>Real-Time Collaboration (CRDTs / WebSockets)</code> · <code>Redis Caching</code> · <code>Event-Driven Architecture</code> · <code>Message Queues</code></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>Frontend & Wasm</strong></td>
-    <td align="left"><code>React</code> · <code>Next.js</code> · <code>WebAssembly (Wasm)</code> · <code>Sycamore</code> · <code>State Management (Redux/Zustand)</code> · <code>Design Systems</code></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>Data & Persistence</strong></td>
-    <td align="left"><code>PostgreSQL</code> · <code>MongoDB</code> · <code>SQLite</code> · <code>Redis</code> · <code>Prisma / TypeORM / Diesel</code></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>Cloud & Infrastructure</strong></td>
-    <td align="left"><code>AWS (Amazon Web Services)</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>CI/CD (GitHub Actions)</code> · <code>Linux Administration</code> · <code>Reverse Proxies</code></td>
-  </tr>
-  <tr>
-    <td align="left"><strong>System Architecture</strong></td>
-    <td align="left"><code>Microservices</code> · <code>Domain-Driven Design (DDD)</code> · <code>Fault Tolerance & Resiliency</code> · <code>Scalable API Gateways</code></td>
-  </tr>
-</table>
+I actively design and maintain infrastructure tailored for performance-critical environments:
+
+### [ZenithAPI](https://github.com/Thehaku/ZenithAPI)
+*Modular, API-first web suite for Rust with OpenAPI 3.0, gRPC, and Model Context Protocol (MCP)*
+- Built to streamline modern microservices and AI agent tool integration in Rust.
+- Features compile-time OpenAPI 3.0 schema and Swagger/Redoc auto-generation with zero runtime overhead.
+- Native adapters for gRPC services, Serverless runtimes (AWS Lambda, Cloudflare Workers), and official Model Context Protocol (MCP) server support.
+
+### [PrismRS](https://github.com/Thehaku/PrismRS)
+*Full-stack, universal web framework for Rust & WebAssembly*
+- Multi-strategy rendering engine supporting Static Site Generation (SSG), Server-Side Rendering (SSR), and Incremental Static Regeneration (ISR).
+- Integrates fine-grained client-side reactivity (powered by Sycamore) with first-class server adapters for Axum and Actix-Web.
+- Features Hot State Reloading (HSR), preserving application runtime state across live development cycles.
+
+### [SpectraReport](https://github.com/Thehaku/SpectraReport)
+*Enterprise reporting and document generation engine for .NET 6/7/8*
+- Band-oriented report engine supporting 13 layout band types, complex sub-reports, and dynamic pivot matrices.
+- Direct connectivity to 15+ relational and document databases (PostgreSQL, SQL Server, MySQL, MongoDB, ClickHouse, SQLite).
+- High-throughput multi-format document exporting to PDF, HTML5, and raster formats.
+
+### [IronGate](https://github.com/Thehaku/IronGate)
+*Asynchronous, type-safe web framework in Rust*
+- Low-latency HTTP framework built on Tokio and Hyper, enforcing request validation and routing guarantees at compile time.
+- Composable pipeline architecture for middleware chains (JWT authentication, database pooling, and template rendering).
 
 ---
 
-## 💼 Professional Experience Summary
+## Experience
 
-* **AWS (Amazon Web Services)** — *Full-Stack Developer (Remote)*
-  * Architected analytics and data exploration interfaces for complex reporting workflows with high reliability.
-  * Developed backend services and data pipelines supporting data-intensive product features across cloud infrastructure.
-* **Shopify** — *UX Designer & Product Engineer (Remote)*
-  * Designed and implemented commerce workflows, balancing interaction fidelity with strict engineering constraints.
-  * Shipped reusable interface patterns, frontend components, and production-ready design systems across global products.
-* **Uniqord Studio** — *Founder & Lead Software Engineer (Remote)*
-  * Led overall architecture and technical execution across web products, covering API design, distributed databases, cloud orchestration, and continuous delivery.
-* **Liveblocks** — *Senior Frontend Engineer (Remote)*
-  * Built sub-millisecond real-time collaboration engines including user presence, live cursors, shared state, and multi-user editing pipelines.
-* **Lorcent** — *Founder & Product Engineer (Remote)*
-  * Directed product development from technical blueprint and UX architecture to production deployment and scaling.
+### Founder & Lead Software Engineer — Uniqord Studio (2022 - Present)
+- Direct end-to-end technical strategy, microservices architecture, and cloud infrastructure across multiple SaaS products.
+- Establish core frontend and backend foundations, ensuring architectural consistency and modular code reuse across teams.
+
+### Full-Stack Developer — AWS (Amazon Web Services) (2023)
+- Built analytics and data exploration interfaces for complex reporting workflows, prioritizing rendering performance and data reliability.
+- Engineered backend data services and aggregation pipelines supporting data-intensive features.
+
+### UX Designer & Product Engineer — Shopify (2024 - 2025)
+- Designed and implemented product workflows for global commerce systems, balancing high-fidelity interaction design with backend performance constraints.
+- Developed scalable frontend components and reusable interface patterns across production applications.
+
+### Senior Frontend Engineer — Liveblocks (2023)
+- Engineered sub-millisecond real-time collaborative state management engines, presence systems, and shared document synchronization.
+- Optimized client-side synchronization protocols for multi-user application workflows.
+
+### Founder & Product Engineer — Lorcent (2023 - 2024)
+- Led technical architecture, product design, and continuous delivery pipelines from initial concept to production scale.
+
+*Earlier roles include software engineering and product work across Doist, Float, Contra, Automattic, and Buffer.*
 
 ---
 
-## 🎓 Education & Certifications
+## Technical Competencies
 
-* **Harvard University** — *Bachelor of Science in Computer Software Engineering (Grade: A-)*
-* **Cisco Certified Network Professional (CCNP / Specialist)** — *Advanced Network Infrastructure, Distributed Routing, Security & Systems Engineering*
+- **Languages:** Rust, TypeScript, JavaScript, C# (.NET), SQL, HTML5, Modern CSS
+- **Backend & Systems:** Tokio, Hyper, Node.js, NestJS, ASP.NET Core, gRPC, Protobuf, GraphQL, REST
+- **Distributed & Real-Time:** WebSockets, CRDTs, Redis Caching, Event-Driven Architectures, Message Brokers
+- **Frontend & WebAssembly:** React, Next.js, WebAssembly (Wasm), Sycamore, State Management (Redux/Zustand), Design Systems
+- **Databases & Persistence:** PostgreSQL, MongoDB, SQLite, Redis, Diesel, Prisma, Entity Framework Core
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD (GitHub Actions), Linux Administration, Nginx
+- **Architecture:** Microservices, Domain-Driven Design (DDD), Distributed Systems, High-Availability API Gateways
 
 ---
 
-<div align="center">
+## Education & Certifications
 
-```
-"Engineering resilient, high-throughput software systems where architectural precision meets elegant user experiences."
-```
+- **Harvard University** — Computer Software Engineering (Grade: A-)
+- **Cisco Certified Network Professional (CCNP / Specialist)** — Advanced Network Infrastructure, Systems Security & Distributed Routing
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thehaku&theme=tokyonight&hide_border=true)](https://github.com/Thehaku)
+---
 
-</div>
+## Contact
+
+- **Personal Website:** [hakux.ir](https://hakux.ir)
+- **LinkedIn:** [linkedin.com/in/hakux](https://www.linkedin.com/in/hakux/)
+- **Email:** [poriyahamzehzadeh@gmail.com](mailto:poriyahamzehzadeh@gmail.com)
+- **GitHub:** [github.com/Thehaku](https://github.com/Thehaku)
